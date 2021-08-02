@@ -1,0 +1,18 @@
+.menu{
+   display:flex;
+   justify-content: space-between;
+   background-color: navajowhite;
+}
+.bodyimg{
+  
+    background-color: burlywood;
+}
+.grid{
+    display:flex;
+    justify-content: space-evenly;
+    flex-wrap:wrap;
+    background-color: rgb(255, 166, 49);
+}
+/* *{
+    border: solid;
+} */
